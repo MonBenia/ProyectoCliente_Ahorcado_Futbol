@@ -70,7 +70,7 @@
     { "id": 63, "liga": "ligue1",     "palabra": "DESAILLY",     "pista": "Central franco-ganes campeon del mundo con Francia y de Europa" },
     { "id": 64, "liga": "ligue1",     "palabra": "HENRY",        "pista": "Delantero frances destacado por su gran velocidad y capacidad fisica" },
     { "id": 65, "liga": "ligue1",     "palabra": "CAMAVINGA",    "pista": "Amante de las tarjetas amarillas " },
-    { "id": 66, "liga": "ligue1",     "palabra": "QUARESMA",     "pista": "Extremo portugues experto en la trivela" },
+    { "id": 66, "liga": "laliga",     "palabra": "QUARESMA",     "pista": "Extremo portugues experto en la trivela" },
     { "id": 67, "liga": "ligue1",     "palabra": "PAPIN",        "pista": "Delantero del Marseille, Balon de Oro 1991" },
     { "id": 68, "liga": "ligue1",     "palabra": "CANTONA",      "pista": "Le gusta dar patadas voladoras a los aficionados" },
     { "id": 69, "liga": "ligue1",     "palabra": "WEAH",         "pista": "Africano Balon de Oro 1995 en el PSG" },
