@@ -35,7 +35,7 @@
     { "id": 31, "liga": "premier",    "palabra": "SAKA",         "pista": "Extremo del Arsenal formado en su cantera" },
     { "id": 32, "liga": "premier",    "palabra": "GRAVENBERCH",  "pista": "Holandes renacido en el futbol ingles" },
     { "id": 33, "liga": "premier",    "palabra": "ODEGAARD",     "pista": "Noruego capitan del Arsenal" },
-    { "id": 34, "liga": "premier",    "palabra": "GYOKERES",         "pista": "Delantero que siempre se pone la mascara" },
+    { "id": 34, "liga": "premier",    "palabra": "GYOKERES",      "pista": "Delantero que siempre se pone la mascara" },
     { "id": 35, "liga": "premier",    "palabra": "MADUEKE",      "pista": "Extremo holandes del Chelsea formado en el PSV" },
 
     { "id": 36, "liga": "seriea",     "palabra": "MALDINI",      "pista": "Defensa italiano con unas cualidades excepcionales" },
@@ -51,7 +51,7 @@
     { "id": 46, "liga": "seriea",     "palabra": "NEDVED",       "pista": "Checo de la Juventus " },
     { "id": 47, "liga": "seriea",     "palabra": "CAMORANESI",   "pista": "Argentino nacionalizado italiano, campeon del mundo 2006 con la Azzurra" },
     { "id": 48, "liga": "seriea",     "palabra": "BARELLA",    "pista": "Mediocentro del Inter, italiano, conocido por su capacidad de recuperación y pase preciso" },
-    { "id": 49, "liga": "seriea",     "palabra": "ADRIANO",       "pista": "El emperador de milan, marcado por su vida en las favelas" },
+    { "id": 49, "liga": "seriea",     "palabra": "ADRIANO",     "pista": "El emperador de milan, marcado por su vida en las favelas" },
     { "id": 50, "liga": "seriea",     "palabra": "GULLIT",    "pista": "Todoterreno holandes capaz de jugar en 3 posiciones a un alto nivel" },
 
     { "id": 51, "liga": "bundesliga", "palabra": "KLUIVERT",     "pista": "Holandes que marco la Champions del Ajax con 18 años" },

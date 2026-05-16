@@ -44,12 +44,12 @@ pipeline {
         }
 
         stage('Deploy') {
-            steps {
-                echo '🚀 Desplegando en Firebase...'
-                bat 'npm install -g firebase-tools'
-                bat 'firebase deploy --token %FIREBASE_TOKEN% --non-interactive'
-            }
-        }
+        steps {
+        echo '🚀 Desplegando en Firebase...'
+        bat 'npm install -g firebase-tools'
+        bat 'firebase deploy --token %FIREBASE_TOKEN% --non-interactive'
+    }
+}
     }
 
     post {
