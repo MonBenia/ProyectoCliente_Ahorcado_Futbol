@@ -35,15 +35,22 @@
 </template>
 
 <script setup>
+import jugadoresData from '../data/jugadores.json'
+
 defineEmits(['seleccionar-liga'])
 
-const ligas = [
-  { id: 'laliga',     nombre: 'LaLiga',          bandera: '🇪🇸', jugadores: 20 },
-  { id: 'premier',    nombre: 'Premier League',   bandera: '🏴󠁧󠁢󠁥󠁮󠁧󠁿', jugadores: 15 },
-  { id: 'seriea',     nombre: 'Serie A',          bandera: '🇮🇹', jugadores: 15 },
-  { id: 'bundesliga', nombre: 'Bundesliga',       bandera: '🇩🇪', jugadores: 10 },
-  { id: 'ligue1',     nombre: 'Ligue 1',          bandera: '🇫🇷', jugadores: 10 },
+const todasLasLigas = [
+  { id: 'laliga',     nombre: 'LaLiga',          bandera: '🇪🇸' },
+  { id: 'premier',    nombre: 'Premier League',   bandera: '🏴󠁧󠁢󠁥󠁮󠁧󠁿' },
+  { id: 'seriea',     nombre: 'Serie A',          bandera: '🇮🇹' },
+  { id: 'bundesliga', nombre: 'Bundesliga',       bandera: '🇩🇪' },
+  { id: 'ligue1',     nombre: 'Ligue 1',          bandera: '🇫🇷' },
 ]
+
+const ligas = todasLasLigas.map(liga => ({
+  ...liga,
+  jugadores: jugadoresData.palabras.filter(j => j.liga === liga.id).length
+}))
 </script>
 
 <style scoped>
