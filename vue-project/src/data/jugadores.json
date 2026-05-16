@@ -2,18 +2,18 @@
   "palabras": [
 
     { "id": 1,  "liga": "laliga",     "palabra": "RONALDO",      "pista": "O fenomeno" },
-    { "id": 2,  "liga": "laliga",     "palabra": "GUARDIOLA",    "pista": "El inventor del tiki-taka" },
+    { "id": 2,  "liga": "laliga",     "palabra": "GUARDIOLA",    "pista": "El predecesor del tiki-taka" },
     { "id": 3,  "liga": "laliga",     "palabra": "STOICHKOV",    "pista": "Bulgaro ganador del balón de oro" },
     { "id": 4,  "liga": "laliga",     "palabra": "LAUDRUP",      "pista": "Danes elegante que triunfo en el Barca y luego en el Madrid" },
     { "id": 5,  "liga": "laliga",     "palabra": "VILLA",     "pista": "Maximo artillero español" },
     { "id": 6,  "liga": "laliga",     "palabra": "FIGO",         "pista": "Amante del cochinillo" },
     { "id": 7,  "liga": "laliga",     "palabra": "MIJATOVIC",    "pista": "Marco el gol de la Septima Copa de Europa del Madrid en 1998" },
-    { "id": 8,  "liga": "laliga",     "palabra": "RIVALDO",      "pista": "Brasileno conocido por irse al carnaval de brasis despues de anotar varios goles" },
+    { "id": 8,  "liga": "laliga",     "palabra": "ROMARIO",      "pista": "Brasileno conocido por irse al carnaval de brasil despues de anotar varios goles" },
     { "id": 9,  "liga": "laliga",     "palabra": "SAVIOLA",      "pista": "El conejo" },
     { "id": 10, "liga": "laliga",     "palabra": "MESSI",         "pista": "Dios" },
     { "id": 11, "liga": "laliga",     "palabra": "PEDRI",        "pista": "Jugador del barca amante de los calvos" },
     { "id": 12, "liga": "laliga",     "palabra": "YAMAL",        "pista": "HustleHard" },
-    { "id": 13, "liga": "laliga",     "palabra": "VALVERDE",     "pista": "Jugador conocido por su fuelte golpeo en varios ambitos" },
+    { "id": 13, "liga": "laliga",     "palabra": "VALVERDE",     "pista": "Jugador conocido por su fuerte golpeo en varios ambitos" },
     { "id": 14, "liga": "laliga",     "palabra": "BELLINGHAM",   "pista": "Conocido en las discotecas madrileñas como JB" },
     { "id": 15, "liga": "laliga",     "palabra": "GULER",        "pista": "Turco del Madrid " },
     { "id": 16, "liga": "laliga",     "palabra": "TCHOUAMENI",    "pista": "Rompio la imbatibilidad de Valverde" },
@@ -36,7 +36,7 @@
     { "id": 32, "liga": "premier",    "palabra": "GRAVENBERCH",  "pista": "Holandes renacido en el futbol ingles" },
     { "id": 33, "liga": "premier",    "palabra": "ODEGAARD",     "pista": "Noruego capitan del Arsenal" },
     { "id": 34, "liga": "premier",    "palabra": "GYOKERES",      "pista": "Delantero que siempre se pone la mascara" },
-    { "id": 35, "liga": "premier",    "palabra": "MADUEKE",      "pista": "Extremo holandes del Chelsea formado en el PSV" },
+    { "id": 35, "liga": "premier",    "palabra": "MADUEKE",      "pista": "Extremo holandes del Arsenal formado en el PSV" },
 
     { "id": 36, "liga": "seriea",     "palabra": "MALDINI",      "pista": "Defensa italiano con unas cualidades excepcionales" },
     { "id": 37, "liga": "seriea",     "palabra": "SEEDORF",      "pista": "Holandes que gano la Champions con tres clubes distintos" },
@@ -54,8 +54,8 @@
     { "id": 49, "liga": "seriea",     "palabra": "ADRIANO",     "pista": "El emperador de milan, marcado por su vida en las favelas" },
     { "id": 50, "liga": "seriea",     "palabra": "GULLIT",    "pista": "Todoterreno holandes capaz de jugar en 3 posiciones a un alto nivel" },
 
-    { "id": 51, "liga": "bundesliga", "palabra": "KLUIVERT",     "pista": "Holandes que marco la Champions del Ajax con 18 años" },
-    { "id": 52, "liga": "bundesliga", "palabra": "ROBBEN",       "pista": "Siempre cortaba hacia dentro con la derecha para rematar, jugador de cristal" },
+    { "id": 51, "liga": "bundesliga", "palabra": "KLUIVERT",     "pista": "Holandes que marco en la Champions que gano el  Ajax con 18 años" },
+    { "id": 52, "liga": "bundesliga", "palabra": "ROBBEN",       "pista": "Siempre cortaba hacia dentro con la izquierda para rematar, jugador de cristal" },
     { "id": 53, "liga": "bundesliga", "palabra": "RIBERY",       "pista": "Frances apodado cara-cortada" },
     { "id": 54, "liga": "bundesliga", "palabra": "KROOS",        "pista": "Jugador apodado el metronomo aleman " },
     { "id": 55, "liga": "bundesliga", "palabra": "LEWANDOWSKI",  "pista": "Delantero con el record de 5 goles mas rapidos " },
@@ -63,7 +63,7 @@
     { "id": 57, "liga": "bundesliga", "palabra": "MUSIALA",      "pista": "Joven promesa alemana del Bayern lastrado por las lesiones" },
     { "id": 58, "liga": "bundesliga", "palabra": "FRIMPONG",     "pista": "Lateral holandes con grandes carencias defensivas" },
     { "id": 59, "liga": "bundesliga", "palabra": "DAVIDS",       "pista": "Mediocentro de la juve, conocido por sus gafas de esquiador" },
-    { "id": 60, "liga": "bundesliga", "palabra": "HAALAND",      "pista": "Delantero total apodado el ciborg" },
+    { "id": 60, "liga": "bundesliga", "palabra": "LAHM",      "pista": "Nunca fue expulsado en su carrera" },
 
     { "id": 61, "liga": "ligue1",     "palabra": "GINOLA",    "pista": "Jugador apodado el principe, frances que brillo en el PSG" },
     { "id": 62, "liga": "ligue1",     "palabra": "BLANC",        "pista": "Defensa frances de alto nivel, que fue el primero en marcar un gol de oro en un Mundial" },
@@ -74,8 +74,26 @@
     { "id": 67, "liga": "ligue1",     "palabra": "PAPIN",        "pista": "Delantero del Marseille, Balon de Oro 1991" },
     { "id": 68, "liga": "ligue1",     "palabra": "CANTONA",      "pista": "Le gusta dar patadas voladoras a los aficionados" },
     { "id": 69, "liga": "ligue1",     "palabra": "WEAH",         "pista": "Africano Balon de Oro 1995 en el PSG" },
-    { "id": 70, "liga": "ligue1",     "palabra": "PIRES",        "pista": "Extremo del Arsenal de los invencibles" }
+    { "id": 70, "liga": "ligue1",     "palabra": "PIRES",        "pista": "Extremo del Arsenal de los invencibles" },
 
+    { "id": 71, "liga": "laliga", "palabra": "SUAREZ", "pista": "Apetito goleador" },
+    { "id": 72, "liga": "laliga", "palabra": "GRIEZMANN", "pista": "El principito " },
+    { "id": 73, "liga": "laliga", "palabra": "NEYMAR", "pista": "El principe que no quiso ser rey" },
 
+    { "id": 74, "liga": "premier", "palabra": "ROONEY", "pista": "El bad boy de la premier " },
+    { "id": 75, "liga": "premier", "palabra": "SCHOLES", "pista": "El pelirrojo" },
+    { "id": 76, "liga": "premier", "palabra": "VAN DIJK", "pista": "El muro de breda" },
+
+    { "id": 77, "liga": "seriea", "palabra": "LAUTARO", "pista": "El toro" },
+    { "id": 78, "liga": "seriea", "palabra": "DE ROSSI", "pista": "El pitbull" },
+    { "id": 79, "liga": "seriea", "palabra": "IBRAHIMOVIC", "pista": "Nadie tiene mas ego que el" },
+
+    { "id": 80, "liga": "bundesliga", "palabra": "BALLACK", "pista": "Le gusta ir rapido por Extremadura" },
+    { "id": 81, "liga": "bundesliga", "palabra": "KLOSE", "pista": "Maximo goleador de los mundiales" },
+    { "id": 82, "liga": "bundesliga", "palabra": "GOTZE", "pista": "El padre de los argentinos" },
+
+    { "id": 83, "liga": "ligue1", "palabra": "OKOCHA", "pista": "Era tan bueno que decian su nombre 2 veces" },
+    { "id": 84, "liga": "ligue1", "palabra": "PLATINI", "pista": "Balón de oro frances" },
+    { "id": 85, "liga": "ligue1", "palabra": "JUNINHO", "pista": "Uno de los mejores especialistas en tiros libres" }
   ]
 }
