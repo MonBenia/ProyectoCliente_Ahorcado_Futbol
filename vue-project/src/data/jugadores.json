@@ -12,7 +12,7 @@
     { "id": 9,  "liga": "laliga",     "palabra": "SAVIOLA",      "pista": "El conejo" },
     { "id": 10, "liga": "laliga",     "palabra": "MESSI",         "pista": "Dios" },
     { "id": 11, "liga": "laliga",     "palabra": "PEDRI",        "pista": "Jugador del barca amante de los calvos" },
-    { "id": 12, "liga": "laliga",     "palabra": "YAMAL",        "pista": "HustleHard" },
+    { "id": 12, "liga": "laliga",     "palabra": "LAMINE",        "pista": "HustleHard" },
     { "id": 13, "liga": "laliga",     "palabra": "VALVERDE",     "pista": "Jugador conocido por su fuerte golpeo en varios ambitos" },
     { "id": 14, "liga": "laliga",     "palabra": "BELLINGHAM",   "pista": "Conocido en las discotecas madrileñas como JB" },
     { "id": 15, "liga": "laliga",     "palabra": "GULER",        "pista": "Turco del Madrid " },
@@ -24,7 +24,7 @@
 
     { "id": 21, "liga": "premier",    "palabra": "BERGKAMP",     "pista": "Jugador del arsenal conocido por sus controles" },
     { "id": 22, "liga": "premier",    "palabra": "VIEIRA",       "pista": "Centrocampista del Arsenal Invencible" },
-    { "id": 23, "liga": "premier",    "palabra": "VERON",        "pista": "Centrocampista argentino del United" },
+    { "id": 23, "liga": "premier",    "palabra": "VERON",        "pista": "La brujita" },
     { "id": 24, "liga": "premier",    "palabra": "STAM",         "pista": "Central holandes del United" },
     { "id": 25, "liga": "premier",    "palabra": "GERRARD",      "pista": "Milagro de Estambul" },
     { "id": 26, "liga": "premier",    "palabra": "LAMPARD",      "pista": "Potencia de disparo y de los mejores b2b" },
